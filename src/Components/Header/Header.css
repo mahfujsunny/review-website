@@ -1,0 +1,22 @@
+.div-bg {
+    background-image: linear-gradient(rgba(0, 194, 253, 0.392), rgb(3, 41, 41)), url(../Images/DPI-campus.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 500px;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.info{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    margin-top: 50px;
+}
+
+.info h1{
+    font-size: 44px;
+    font-weight: 800;
+    padding: 20px;
+}

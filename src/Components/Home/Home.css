@@ -1,0 +1,18 @@
+.home-section {
+    background-color: rgba(21, 28, 228, 0.659);
+    width: 80%;
+    height: 200px;
+    margin: 40px auto;
+    border-radius: 100px;
+}
+
+.home-section>h2 {
+    padding: 50px;
+    color: rgb(255, 255, 255);
+}
+
+.home-section>h2 span{
+    color: tomato;
+    font-size: 44px;
+    font-weight: 700;
+}

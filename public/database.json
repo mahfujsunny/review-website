@@ -1,0 +1,105 @@
+[
+  {
+    "about": {
+      "enginnering": {
+        "name": "5+ Engineering and Tourism Courses",
+        "image": "https://i.ibb.co/VJXkX7Z/Engineering.jpg"
+      },
+      "teacher": {
+        "name": "30+ Experienced Teacher",
+        "image": "https://i.ibb.co/jh6jbyF/smiling-young-teacher-near-the-board.jpg"
+      },
+      "lab": {
+        "name": "Modern Practical Lab",
+        "Image": "https://i.ibb.co/bRxcLtC/computer-lab.jpg"
+      },
+      "classroom": {
+        "name": "Beautiful Organized          Classroom",
+        "image": "https://i.ibb.co/THWtyKq/classroom.jpg"
+      },
+      "campus": {
+        "name": "Our Campus is Worldwide",
+        "image": "https://i.ibb.co/WWwPRw3/polytecnic.jpg"
+      }
+    },
+    "services": [
+      {
+        "name": "24/7 Support",
+        "description": "You can get help and find answers to questions as soon as they come up—24/7 and in real-time. Companies often offer 24/7 support through chatbots, a knowledge base, live chat, or embedded messaging",
+        "image": "https://i.ibb.co/72TNWhd/image-24-7-image.png"
+      },
+      {
+        "name": "Sports Programm",
+        "description": "You can get help and find answers to questions as soon as they come up—24/7 and in real-time. Companies often offer 24/7 support through chatbots, a knowledge base, live chat, or embedded messaging",
+        "image": "https://i.ibb.co/L9QqdSM/sports.jpg"
+      },
+      {
+        "name": "Hostel Facilities",
+        "description": "There is all you want. Girls and Boys hostels in separate buiildings. Every room has two beds with bathroom.",
+        "image": "https://i.ibb.co/MNjx3mK/hostel.jpg"
+      },
+      {
+        "name": "Short Courses",
+        "description": "There is various types of short courses .1) Office Application 2) Graphics Design 3) Web Design 4) Advance Powerpoint with cool Project",
+        "image": "https://i.ibb.co/q78P2Yt/short-courses.jpg"
+      },
+      {
+        "name": "Govt Certification",
+        "description": "A document containing a certified statement especially as to the truth of something specifically : a document certifying that one has fulfilled the requirements of and may practice in a field.",
+        "image": "https://i.ibb.co/txfBq28/cirtificate.jpg"
+      },
+      {
+        "name": "Beautiful Organized Classroom",
+        "description": "A well-organized classroom sends a clear and positive message to students: This room was created for you, with your specific needs in mind",
+        "image": "https://i.ibb.co/THWtyKq/classroom.jpg"
+      },
+      {
+        "name": "We Are Worldwide",
+        "description": "California Polytechnic State University-Pomona (Cal Poly Pomona) is one of two polytechnic institutions in the 23-member California State University system and has a student population of around 24,000, making it the second-largest polytechnic institution in the country",
+        "image": "https://i.ibb.co/7NNcnmf/worlwide-about.jpg"
+      }
+    ],
+    "courses": [
+      {
+        "name": "Automobile Technology",
+        "description": "Automobile engineering is a branch of vehicle engineering that focuses on the application, design and manufacturing of various types of automobiles. This field of engineering involves the direct application of mathematics in the design and production of vehicles.",
+        "image": "https://i.ibb.co/VY4zhck/Automobile.jpg"
+      },
+      {
+        "name": "Architecture Technology",
+        "description": "Architectural engineering focuses its study on the design of all building systems, including the mechanical, lighting/electrical, and structural systems of a building, while also planning the construction process of buildings and building systems.",
+        "image": "https://i.ibb.co/ZGYMTWK/Architecture.jpg"
+      },
+      {
+        "name": "Computer Technology",
+        "description": "Computer Engineering involves the design and development of systems based on computers and complex digital logic devices. These systems find use in such diverse tasks as computation, communication, entertainment, information processing, artificial intelligence, and control.",
+        "image": "https://i.ibb.co/vQJgtf3/Computer.jpg"
+      },
+      {
+        "name": "Construction Technology",
+        "description": "Construction engineering is a professional discipline that deals with the designing, planning, construction and management of infrastructures such as roads, tunnels, bridges, airports, railroads, facilities, buildings, dams, utilities and other projects.",
+        "image": "https://i.ibb.co/mTJPjyd/Construction.jpg"
+      },
+      {
+        "name": "Civil Engineering",
+        "description": "Civil engineers conceive, design, build, supervise, operate, construct and maintain infrastructure projects and systems in the public and private sector, including roads, buildings, airports, tunnels, dams, bridges, and systems for water supply and sewage treatment.",
+        "image": "https://i.ibb.co/sgqDGr1/Civil.jpg"
+      },
+      {
+        "name": "Electrical Technology",
+        "description": "Electrical engineers design, develop, test, and supervise the manufacture of electrical equipment, such as electric motors, radar and navigation systems, communications systems, or power generation equipment. Electrical engineers also design the electrical systems of automobiles and aircraft.",
+        "image": "https://i.ibb.co/X7QtRpW/Electrical.jpg"
+      },
+      {
+        "name": "Food Technology",
+        "description": "Food engineers design and develop systems for production, processing, distributing, and storing food and agricultural materials. Applications include food safety and quality, biorefining, pharmaceuticals, and environmentally-friendly packaging.",
+        "image": "https://i.ibb.co/PxQkk2R/Food.jpg"
+      },
+      {
+        "name": "Marine Technology",
+        "description": "Marine engineers are involved with the design, construction, installation, operation, maintenance and repair of the main propulsion engines and auxiliary machinery and systems found in all kinds of ships, boats and offshore installations.",
+        "image": "https://i.ibb.co/d2cZKCt/Marine.png"
+      }
+    ]
+  }
+]

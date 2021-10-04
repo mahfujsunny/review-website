@@ -1,5 +1,5 @@
 # This is an Educational Purpose website
-You can see the website by clicking [here]()
+You can see the website by clicking [here](https://mahfujsunny-assignment-10.netlify.app/)
 
 ### Uses of my site
 ##### 1. You can find the Various Types of courses

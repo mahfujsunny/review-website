@@ -1,8 +1,8 @@
 import React, { useEffect, useState } from 'react';
 import Service from '../Service/Service';
-import './Services.css';
+import './ServicesExtra.css';
 
-const Services = (props) => {
+const ServicesExtra = () => {
     const [service , setService] = useState([]);
     
     useEffect(()=> {
@@ -17,15 +17,15 @@ const Services = (props) => {
             <div className="row">
                 
             {
-                service.map(service => <Service 
+                service.slice(0,4).map(service => <Service 
                 service={service}>
 
                 </Service>)
             }
-            
             </div>
+            
         </div>
     );
 };
 
-export default Services;
+export default ServicesExtra;

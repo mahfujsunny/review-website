@@ -1,6 +1,6 @@
 import React from 'react';
 import Courses from '../Courses/Courses';
-import Services from '../Services/Services';
+import ServicesExtra from '../ServicesExtra/ServicesExtra';
 import './Home.css';
 
 const Home = () => {
@@ -11,7 +11,7 @@ const Home = () => {
             
 
             </div>
-            <Services/>
+            <ServicesExtra/>
             <Courses/>
         </div>
     );

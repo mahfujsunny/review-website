@@ -1,0 +1,37 @@
+ [
+      {
+        "name": "24/7 Support",
+        "description": "You can get help and find answers to questions as soon as they come up—24/7 and in real-time. Companies often offer 24/7 support through chatbots, a knowledge base, live chat, or embedded messaging",
+        "image": "https://i.ibb.co/72TNWhd/image-24-7-image.png"
+      },
+      {
+        "name": "Sports Programm",
+        "description": "You can get help and find answers to questions as soon as they come up—24/7 and in real-time. Companies often offer 24/7 support through chatbots, a knowledge base, live chat, or embedded messaging",
+        "image": "https://i.ibb.co/L9QqdSM/sports.jpg"
+      },
+      {
+        "name": "Hostel Facilities",
+        "description": "There is all you want. Girls and Boys hostels in separate buiildings. Every room has two beds with bathroom.",
+        "image": "https://i.ibb.co/MNjx3mK/hostel.jpg"
+      },
+      {
+        "name": "Short Courses",
+        "description": "There is various types of short courses .1) Office Application 2) Graphics Design 3) Web Design 4) Advance Powerpoint with cool Project",
+        "image": "https://i.ibb.co/q78P2Yt/short-courses.jpg"
+      },
+      {
+        "name": "Govt Certification",
+        "description": "A document containing a certified statement especially as to the truth of something specifically : a document certifying that one has fulfilled the requirements of and may practice in a field.",
+        "image": "https://i.ibb.co/txfBq28/cirtificate.jpg"
+      },
+      {
+        "name": "Beautiful Organized Classroom",
+        "description": "A well-organized classroom sends a clear and positive message to students: This room was created for you, with your specific needs in mind",
+        "image": "https://i.ibb.co/THWtyKq/classroom.jpg"
+      },
+      {
+        "name": "We Are Worldwide",
+        "description": "California Polytechnic State University-Pomona (Cal Poly Pomona) is one of two polytechnic institutions in the 23-member California State University system and has a student population of around 24,000, making it the second-largest polytechnic institution in the country",
+        "image": "https://i.ibb.co/7NNcnmf/worlwide-about.jpg"
+      }
+    ]
